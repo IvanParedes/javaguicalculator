@@ -1,1 +1,1 @@
-# javaguicalculator
+# Java GUI Calculator
